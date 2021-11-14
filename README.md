@@ -1,5 +1,3 @@
 # ncfulabs2
-Hello world
-Hello world
-Hello world
-Hello world
+ПИЖ-б-о-20-1
+Ваньянц Илья Михайлович
